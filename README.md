@@ -16,7 +16,7 @@ TB_b8、Class、section_names_header、TB_b1、ent_p_18、Img8.1、ent_p_4、arg
 
 ### (4) 透過Python哪些套件以及方法可以幫助你完成上面的工作？
 
-numpy、pandas、sk-learn
+numpy、pandas、scikit-learn
 
 ### (5) 課程迄今有無建議？
 沒有!謝謝老師教導!
