@@ -3,12 +3,12 @@
 ### (1)哪些屬性對於惡意程式分類有效？
 
 前十名有效
-TB_b8、Class、section_names_header、TB_b1、ent_p_18、Img8.1、ent_p_4、arg、TB_71、	ent_q_diffs_median
+TB_a5、TB_2f、asm_commands_test、TB_28、TB_94、Img79、Img7、TB_72、TB_23、Img26
 
 ### (2)哪些屬性對於惡意程式分類無效？
 
-前十名無效
-*invalid*、fstcwimul、__vbaFixstrConstruct、ProcCallEngine、__vbaVarIndexLoad、__vbaAryVar、__vbaStrI2、__vbaErase、__vbaAryConstruct2、__vbaPutOwner3
+前十名無效 
+invalid、fstcwimul、ProcCallEngine、vbaVarIndexLoad、vbaStrFixstr、vbaI4ErrVar、vbaGet3、vbaPutOwner3、vbaInStrVar、__vbaVar2Vec
 
 ### (3) 用什麼方法可以幫助你決定上述的結論？
 
